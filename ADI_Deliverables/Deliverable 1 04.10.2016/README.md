@@ -1,4 +1,4 @@
-This is the first deliverable for the ADI course 04.10.2016, this submission is a little confusing so forwarning: :-)
+This is the first deliverable for the ADI course 04.10.2016, this submission is a little confusing so for-warning: :-)
 
 Below you'll find an explaination for what each folder contains, I wasn' t able to get the app itself running to the level asked by the deliverable, but I was able to get most of the app going , what I couldn't figure out was how to integrate the control flow logic of the methods I created to the app buttons, which would then transfer the logic onto textView as an ouput. I reasearched a bunch and did what I could though :P (What I was able to complete I packaged and included in the files, as well as the methods with the logic to run all the needed actions, the pass/fail, grade and 5 times.)
 
