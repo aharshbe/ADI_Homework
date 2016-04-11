@@ -17,7 +17,7 @@ public static void main(String [] args){
 					      System.out.println('C');
 					   }else if (i >= 60 && i <= 70){
 					      System.out.println('D');
-					   }else if (i >= 50 && i <= 60){
+					   }else if (i >= 0 && i <= 60){
 					      System.out.println('F');
 					   }else {
 					      System.out.println("You either chose a number above 100 at which point you have an A+ or you chose a negative number at which point you're being cheeky ;)");
